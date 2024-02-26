@@ -50,6 +50,7 @@
 33,2024-02-10,12:30,Premier League,Matchweek 24,Sat,Home,W,2,0,Everton,1.6,0.3,72.0,52187.0,Rúben Dias,4-1-4-1,John Brooks,Match Report,,19.0,3.0,17.4,0.0,0,0,2024,Manchester City
 35,2024-02-17,17:30,Premier League,Matchweek 25,Sat,Home,D,1,1,Chelsea,2.6,1.4,70.0,52178.0,Kyle Walker,4-1-4-1,Andy Madley,Match Report,,31.0,5.0,15.9,1.0,0,0,2024,Manchester City
 36,2024-02-20,19:30,Premier League,Matchweek 18,Tue,Home,W,1,0,Brentford,2.3,0.4,70.0,52247.0,Kyle Walker,4-2-3-1,Darren England,Match Report,,25.0,10.0,17.6,0.0,0,0,2024,Manchester City
+37,2024-02-24,17:30,Premier League,Matchweek 26,Sat,Away,W,1,0,Bournemouth,1.6,0.9,62.0,11184.0,Rúben Dias,3-2-4-1,Jarred Gillett,Match Report,,15.0,6.0,15.5,1.0,0,0,2024,Manchester City
 1,2023-08-12,12:30,Premier League,Matchweek 1,Sat,Home,W,2,1,Nott'ham Forest,0.8,1.2,78.0,59984.0,Martin Ødegaard,4-3-3,Michael Oliver,Match Report,,15.0,7.0,19.1,0.0,0,0,2024,Arsenal
 2,2023-08-21,20:00,Premier League,Matchweek 2,Mon,Away,W,1,0,Crystal Palace,2.0,1.0,53.0,24189.0,Martin Ødegaard,4-3-3,David Coote,Match Report,,13.0,2.0,16.4,0.0,1,1,2024,Arsenal
 3,2023-08-26,15:00,Premier League,Matchweek 3,Sat,Home,D,2,2,Fulham,3.2,0.6,71.0,59961.0,Martin Ødegaard,4-3-3,Paul Tierney,Match Report,,18.0,9.0,13.8,0.0,1,1,2024,Arsenal
@@ -75,6 +76,7 @@
 32,2024-02-04,16:30,Premier League,Matchweek 23,Sun,Home,W,3,1,Liverpool,3.5,0.4,43.0,60374.0,Martin Ødegaard,4-3-3,Anthony Taylor,Match Report,,15.0,7.0,14.2,0.0,0,0,2024,Arsenal
 33,2024-02-11,14:00,Premier League,Matchweek 24,Sun,Away,W,6,0,West Ham,3.6,0.2,70.0,62475.0,Martin Ødegaard,4-3-3,Craig Pawson,Match Report,,24.0,11.0,16.0,0.0,1,1,2024,Arsenal
 34,2024-02-17,15:00,Premier League,Matchweek 25,Sat,Away,W,5,0,Burnley,2.3,0.3,64.0,21311.0,Martin Ødegaard,4-3-3,Jarred Gillett,Match Report,,15.0,6.0,16.8,1.0,1,1,2024,Arsenal
+36,2024-02-24,20:00,Premier League,Matchweek 26,Sat,Home,W,4,1,Newcastle Utd,2.4,0.2,55.0,60298.0,Martin Ødegaard,4-3-3,Paul Tierney,Match Report,,18.0,7.0,13.8,0.0,0,0,2024,Arsenal
 0,2023-08-12,17:30,Premier League,Matchweek 1,Sat,Away,L,1.0,5.0,Newcastle Utd,1.8,3.3,48.0,52207.0,John McGinn,4-2-3-1,Andy Madley,Match Report,,16.0,6.0,14.5,1.0,0,0,2024,Aston Villa
 1,2023-08-20,14:00,Premier League,Matchweek 2,Sun,Home,W,4.0,0.0,Everton,2.9,0.6,60.0,41694.0,John McGinn,4-2-3-1,Anthony Taylor,Match Report,,12.0,6.0,18.5,0.0,1,1,2024,Aston Villa
 3,2023-08-27,14:00,Premier League,Matchweek 3,Sun,Away,W,3.0,1.0,Burnley,2.5,0.7,43.0,21591.0,John McGinn,3-4-3,Michael Salisbury,Match Report,,16.0,6.0,13.4,0.0,0,0,2024,Aston Villa
@@ -100,6 +102,7 @@
 33,2024-02-03,17:30,Premier League,Matchweek 23,Sat,Away,W,5.0,0.0,Sheffield Utd,2.2,1.4,63.0,30187.0,John McGinn,4-2-3-1,Paul Tierney,Match Report,,14.0,9.0,15.8,1.0,0,0,2024,Aston Villa
 35,2024-02-11,16:30,Premier League,Matchweek 24,Sun,Home,L,1.0,2.0,Manchester Utd,2.4,1.8,56.0,42185.0,John McGinn,4-2-3-1,Robert Jones,Match Report,,23.0,9.0,16.7,1.0,0,0,2024,Aston Villa
 36,2024-02-17,15:00,Premier League,Matchweek 25,Sat,Away,W,2.0,1.0,Fulham,1.5,1.5,48.0,24401.0,John McGinn,4-4-2,Lewis Smith,Match Report,,12.0,3.0,16.8,1.0,0,0,2024,Aston Villa
+37,2024-02-24,15:00,Premier League,Matchweek 26,Sat,Home,W,4.0,2.0,Nott'ham Forest,3.6,2.6,58.0,,John McGinn,4-4-2,Samuel Barrott,Match Report,,16.0,6.0,14.3,2.0,0,0,2024,Aston Villa
 0,2023-08-13,14:00,Premier League,Matchweek 1,Sun,Away,D,2,2,Brentford,1.3,2.2,69.0,17066.0,Son Heung-min,4-2-3-1,Robert Jones,Match Report,,18.0,6.0,19.6,0.0,0,0,2024,Tottenham Hotspur
 1,2023-08-19,17:30,Premier League,Matchweek 2,Sat,Home,W,2,0,Manchester Utd,1.7,2.1,55.0,61910.0,Son Heung-min,4-2-3-1,Michael Oliver,Match Report,,17.0,6.0,13.8,0.0,0,0,2024,Tottenham Hotspur
 2,2023-08-26,12:30,Premier League,Matchweek 3,Sat,Away,W,2,0,Bournemouth,2.1,0.7,56.0,10567.0,Son Heung-min,4-2-3-1,Tim Robinson,Match Report,,17.0,6.0,16.6,1.0,0,0,2024,Tottenham Hotspur
@@ -150,6 +153,7 @@
 32,2024-02-04,14:00,Premier League,Matchweek 23,Sun,Home,W,3.0,0.0,West Ham,0.7,1.4,51.0,73612.0,Bruno Fernandes,4-2-3-1,Andy Madley,Match Report,,12.0,5.0,20.4,0.0,0,0,2024,Manchester United
 33,2024-02-11,16:30,Premier League,Matchweek 24,Sun,Away,W,2.0,1.0,Aston Villa,1.8,2.4,44.0,42185.0,Bruno Fernandes,4-2-3-1,Robert Jones,Match Report,,17.0,5.0,14.6,0.0,0,0,2024,Manchester United
 34,2024-02-18,16:30,Premier League,Matchweek 25,Sun,Away,W,2.0,1.0,Luton Town,2.9,1.8,42.0,11483.0,Bruno Fernandes,4-2-3-1,David Coote,Match Report,,21.0,8.0,19.8,2.0,0,0,2024,Manchester United
+35,2024-02-24,15:00,Premier League,Matchweek 26,Sat,Home,L,1.0,2.0,Fulham,1.7,1.1,56.0,73487.0,Bruno Fernandes,4-2-3-1,Michael Oliver,Match Report,,21.0,8.0,17.4,0.0,0,0,2024,Manchester United
 0,2023-08-12,15:00,Premier League,Matchweek 1,Sat,Home,W,4.0,1.0,Luton Town,4.0,1.5,70.0,31872.0,Lewis Dunk,4-2-3-1,David Coote,Match Report,,26.0,11.0,17.0,0.0,1,1,2024,Brighton and Hove Albion
 1,2023-08-19,15:00,Premier League,Matchweek 2,Sat,Away,W,4.0,1.0,Wolves,2.2,2.1,53.0,31317.0,Lewis Dunk,4-2-3-1,Andy Madley,Match Report,,16.0,8.0,15.6,0.0,0,0,2024,Brighton and Hove Albion
 2,2023-08-26,17:30,Premier League,Matchweek 3,Sat,Home,L,1.0,3.0,West Ham,1.5,3.0,78.0,31508.0,Lewis Dunk,4-2-3-1,Anthony Taylor,Match Report,,25.0,10.0,19.5,1.0,0,0,2024,Brighton and Hove Albion
@@ -175,6 +179,7 @@
 31,2024-02-03,15:00,Premier League,Matchweek 23,Sat,Home,W,4.0,1.0,Crystal Palace,1.4,0.3,68.0,31345.0,Lewis Dunk,3-4-3,Simon Hooper,Match Report,,13.0,6.0,16.7,0.0,0,0,2024,Brighton and Hove Albion
 32,2024-02-10,15:00,Premier League,Matchweek 24,Sat,Away,L,1.0,2.0,Tottenham,1.2,1.6,48.0,61445.0,Lewis Dunk,4-2-3-1,Samuel Barrott,Match Report,,5.0,2.0,17.8,0.0,1,1,2024,Brighton and Hove Albion
 33,2024-02-18,14:00,Premier League,Matchweek 25,Sun,Away,W,5.0,0.0,Sheffield Utd,2.9,0.6,79.0,29522.0,Lewis Dunk,4-2-3-1,Stuart Attwell,Match Report,,24.0,9.0,15.1,0.0,0,0,2024,Brighton and Hove Albion
+34,2024-02-24,15:00,Premier League,Matchweek 26,Sat,Home,D,1.0,1.0,Everton,1.3,0.3,64.0,41646.0,Lewis Dunk,4-2-3-1,Tony Harrington,Match Report,,23.0,7.0,16.3,1.0,0,0,2024,Brighton and Hove Albion
 0,2023-08-12,17:30,Premier League,Matchweek 1,Sat,Home,W,5,1,Aston Villa,3.3,1.8,52.0,52207.0,Kieran Trippier,4-3-3,Andy Madley,Match Report,,17.0,12.0,13.2,0.0,0,0,2024,Newcastle United
 1,2023-08-19,20:00,Premier League,Matchweek 2,Sat,Away,L,0,1,Manchester City,0.3,1.0,41.0,53419.0,Kieran Trippier,4-3-3,Robert Jones,Match Report,,7.0,1.0,20.3,0.0,0,0,2024,Newcastle United
 2,2023-08-27,16:30,Premier League,Matchweek 3,Sun,Home,L,1,2,Liverpool,2.0,0.9,59.0,52214.0,Kieran Trippier,4-3-3,John Brooks,Match Report,,23.0,8.0,18.3,1.0,0,0,2024,Newcastle United
@@ -200,6 +205,7 @@
 33,2024-02-03,15:00,Premier League,Matchweek 23,Sat,Home,D,4,4,Luton Town,2.3,2.4,55.0,52211.0,Kieran Trippier,4-3-3,Thomas Bramall,Match Report,,19.0,6.0,16.3,0.0,0,0,2024,Newcastle United
 34,2024-02-10,17:30,Premier League,Matchweek 24,Sat,Away,W,3,2,Nott'ham Forest,0.5,1.5,61.0,29451.0,Kieran Trippier,4-3-3,Anthony Taylor,Match Report,,7.0,5.0,19.2,0.0,0,0,2024,Newcastle United
 35,2024-02-17,15:00,Premier League,Matchweek 25,Sat,Home,D,2,2,Bournemouth,2.2,2.2,62.0,52224.0,Kieran Trippier,4-3-3,Michael Salisbury,Match Report,,16.0,4.0,19.4,0.0,1,1,2024,Newcastle United
+36,2024-02-24,20:00,Premier League,Matchweek 26,Sat,Away,L,1,4,Arsenal,0.2,2.4,45.0,60298.0,Kieran Trippier,4-3-3,Paul Tierney,Match Report,,3.0,2.0,14.6,0.0,0,0,2024,Newcastle United
 0,2023-08-12,15:00,Premier League,Matchweek 1,Sat,Away,D,1.0,1.0,Bournemouth,1.1,1.3,38.0,11245.0,Kurt Zouma,4-2-3-1,Peter Bankes,Match Report,,16.0,2.0,16.1,0.0,0,0,2024,West Ham United
 1,2023-08-20,16:30,Premier League,Matchweek 2,Sun,Home,W,3.0,1.0,Chelsea,1.8,2.5,25.0,62451.0,Kurt Zouma,4-2-3-1,John Brooks,Match Report,,11.0,5.0,19.6,0.0,1,1,2024,West Ham United
 2,2023-08-26,17:30,Premier League,Matchweek 3,Sat,Away,W,3.0,1.0,Brighton,3.0,1.5,22.0,31508.0,Kurt Zouma,4-1-4-1,Anthony Taylor,Match Report,,12.0,7.0,12.3,0.0,0,0,2024,West Ham United
@@ -300,55 +306,7 @@
 30,2024-02-03,15:00,Premier League,Matchweek 23,Sat,Away,D,2,2,Burnley,1.5,1.8,56.0,20203.0,Tim Ream,4-2-3-1,Darren Bond,Match Report,,15.0,7.0,13.2,0.0,0,0,2024,Fulham
 31,2024-02-10,15:00,Premier League,Matchweek 24,Sat,Home,W,3,1,Bournemouth,1.6,1.8,49.0,24271.0,Tom Cairney,4-2-3-1,Darren England,Match Report,,7.0,6.0,11.4,0.0,0,0,2024,Fulham
 32,2024-02-17,15:00,Premier League,Matchweek 25,Sat,Home,L,1,2,Aston Villa,1.5,1.5,52.0,24401.0,Tom Cairney,4-2-3-1,Lewis Smith,Match Report,,15.0,4.0,14.7,0.0,0,0,2024,Fulham
-0,2023-08-12,15:00,Premier League,Matchweek 1,Sat,Home,D,1.0,1.0,West Ham,1.3,1.1,62.0,11245.0,Neto,4-2-3-1,Peter Bankes,Match Report,,14.0,5.0,20.7,1.0,0,0,2024,Bournemouth
-1,2023-08-19,15:00,Premier League,Matchweek 2,Sat,Away,L,1.0,3.0,Liverpool,1.3,3.0,36.0,53145.0,Neto,4-2-3-1,Thomas Bramall,Match Report,,13.0,5.0,19.7,1.0,0,0,2024,Bournemouth
-2,2023-08-26,12:30,Premier League,Matchweek 3,Sat,Home,L,0.0,2.0,Tottenham,0.7,2.1,44.0,10567.0,Neto,4-2-3-1,Tim Robinson,Match Report,,11.0,3.0,17.8,0.0,0,0,2024,Bournemouth
-4,2023-09-02,15:00,Premier League,Matchweek 4,Sat,Away,D,2.0,2.0,Brentford,2.1,2.9,40.0,16973.0,Neto,4-2-3-1,Robert Madley,Match Report,,12.0,5.0,15.1,0.0,0,0,2024,Bournemouth
-5,2023-09-17,14:00,Premier League,Matchweek 5,Sun,Home,D,0.0,0.0,Chelsea,1.0,1.8,36.0,10421.0,Neto,4-2-3-1,David Coote,Match Report,,13.0,4.0,16.7,1.0,0,0,2024,Bournemouth
-6,2023-09-24,14:00,Premier League,Matchweek 6,Sun,Away,L,1.0,3.0,Brighton,1.1,1.9,39.0,31617.0,Neto,4-2-3-1,John Brooks,Match Report,,12.0,3.0,17.6,1.0,0,0,2024,Bournemouth
-8,2023-09-30,15:00,Premier League,Matchweek 7,Sat,Home,L,0.0,4.0,Arsenal,0.6,3.4,43.0,11193.0,Neto,4-2-3-1,Michael Salisbury,Match Report,,8.0,1.0,14.1,0.0,0,0,2024,Bournemouth
-9,2023-10-07,15:00,Premier League,Matchweek 8,Sat,Away,L,0.0,3.0,Everton,0.7,2.4,52.0,38815.0,Neto,4-2-3-1,David Coote,Match Report,,11.0,3.0,16.2,0.0,0,0,2024,Bournemouth
-10,2023-10-21,15:00,Premier League,Matchweek 9,Sat,Home,L,1.0,2.0,Wolves,0.6,2.4,35.0,11175.0,Neto,4-2-3-1,Paul Tierney,Match Report,,7.0,4.0,17.1,0.0,0,0,2024,Bournemouth
-11,2023-10-28,15:00,Premier League,Matchweek 10,Sat,Home,W,2.0,1.0,Burnley,1.1,0.8,45.0,11152.0,Lloyd Kelly,4-2-3-1,Samuel Barrott,Match Report,,13.0,6.0,19.5,2.0,0,0,2024,Bournemouth
-13,2023-11-04,15:00,Premier League,Matchweek 11,Sat,Away,L,1.0,6.0,Manchester City,0.9,1.9,35.0,53358.0,Lloyd Kelly,5-4-1,Craig Pawson,Match Report,,5.0,1.0,11.4,0.0,0,0,2024,Bournemouth
-14,2023-11-11,17:30,Premier League,Matchweek 12,Sat,Home,W,2.0,0.0,Newcastle Utd,2.4,0.5,48.0,11201.0,Neto,4-2-3-1,Chris Kavanagh,Match Report,,19.0,10.0,14.9,0.0,0,0,2024,Bournemouth
-15,2023-11-25,15:00,Premier League,Matchweek 13,Sat,Away,W,3.0,1.0,Sheffield Utd,2.9,0.8,54.0,30208.0,Neto,4-2-3-1,Andy Madley,Match Report,,23.0,11.0,15.7,0.0,0,0,2024,Bournemouth
-16,2023-12-03,14:00,Premier League,Matchweek 14,Sun,Home,D,2.0,2.0,Aston Villa,2.0,0.7,38.0,11191.0,Neto,4-2-3-1,Thomas Bramall,Match Report,,15.0,7.0,13.6,0.0,0,0,2024,Bournemouth
-17,2023-12-06,19:30,Premier League,Matchweek 15,Wed,Away,W,2.0,0.0,Crystal Palace,1.8,1.0,41.0,25078.0,Neto,4-2-3-1,Craig Pawson,Match Report,,11.0,4.0,11.5,0.0,0,0,2024,Bournemouth
-18,2023-12-09,15:00,Premier League,Matchweek 16,Sat,Away,W,3.0,0.0,Manchester Utd,1.5,1.1,32.0,73427.0,Neto,4-2-3-1,Peter Bankes,Match Report,,10.0,4.0,12.7,0.0,0,0,2024,Bournemouth
-19,2023-12-23,15:00,Premier League,Matchweek 18,Sat,Away,W,3.0,2.0,Nott'ham Forest,1.6,1.0,66.0,29188.0,Neto,4-2-3-1,Robert Jones,Match Report,,18.0,6.0,15.9,1.0,0,0,2024,Bournemouth
-20,2023-12-26,15:00,Premier League,Matchweek 19,Tue,Home,W,3.0,0.0,Fulham,1.8,0.3,43.0,11099.0,Neto,4-2-3-1,Tim Robinson,Match Report,,15.0,3.0,18.5,0.0,1,1,2024,Bournemouth
-21,2023-12-31,14:00,Premier League,Matchweek 20,Sun,Away,L,1.0,3.0,Tottenham,1.7,2.3,50.0,61780.0,Neto,4-2-3-1,Simon Hooper,Match Report,,24.0,4.0,17.2,1.0,0,0,2024,Bournemouth
-23,2024-01-21,16:30,Premier League,Matchweek 21,Sun,Home,L,0.0,4.0,Liverpool,1.4,1.5,40.0,11228.0,Neto,4-2-3-1,Andy Madley,Match Report,,11.0,1.0,19.8,0.0,0,0,2024,Bournemouth
-25,2024-02-01,19:30,Premier League,Matchweek 22,Thu,Away,D,1.0,1.0,West Ham,1.2,1.4,52.0,62478.0,Neto,4-2-3-1,Tim Robinson,Match Report,,9.0,4.0,17.2,0.0,0,0,2024,Bournemouth
-26,2024-02-04,14:00,Premier League,Matchweek 23,Sun,Home,D,1.0,1.0,Nott'ham Forest,1.3,0.5,45.0,11200.0,Neto,4-2-3-1,Rebecca Welch,Match Report,,9.0,1.0,16.7,1.0,0,0,2024,Bournemouth
-27,2024-02-10,15:00,Premier League,Matchweek 24,Sat,Away,L,1.0,3.0,Fulham,1.8,1.6,51.0,24271.0,Neto,4-2-3-1,Darren England,Match Report,,25.0,4.0,16.7,1.0,0,0,2024,Bournemouth
-28,2024-02-17,15:00,Premier League,Matchweek 25,Sat,Away,D,2.0,2.0,Newcastle Utd,2.2,2.2,38.0,52224.0,Neto,4-2-3-1,Michael Salisbury,Match Report,,12.0,6.0,20.3,0.0,0,0,2024,Bournemouth
-0,2023-08-13,14:00,Premier League,Matchweek 1,Sun,Home,D,2,2,Tottenham,2.2,1.3,31.0,17066.0,Christian Nørgaard,5-3-2,Robert Jones,Match Report,,10.0,5.0,18.0,0.0,1,1,2024,Brentford
-1,2023-08-19,15:00,Premier League,Matchweek 2,Sat,Away,W,3,0,Fulham,3.7,0.5,45.0,24236.0,Christian Nørgaard,4-3-3,Darren Bond,Match Report,,16.0,7.0,13.8,1.0,1,1,2024,Brentford
-2,2023-08-26,15:00,Premier League,Matchweek 3,Sat,Home,D,1,1,Crystal Palace,1.0,0.8,60.0,16997.0,Christian Nørgaard,4-3-3,Peter Bankes,Match Report,,12.0,1.0,13.7,0.0,0,0,2024,Brentford
-4,2023-09-02,15:00,Premier League,Matchweek 4,Sat,Home,D,2,2,Bournemouth,2.9,2.1,60.0,16973.0,Christian Nørgaard,4-3-3,Robert Madley,Match Report,,21.0,7.0,14.7,1.0,0,0,2024,Brentford
-5,2023-09-16,17:30,Premier League,Matchweek 5,Sat,Away,L,0,1,Newcastle Utd,0.5,1.4,44.0,51670.0,Christian Nørgaard,5-3-2,Craig Pawson,Match Report,,11.0,2.0,15.7,0.0,0,0,2024,Brentford
-6,2023-09-23,17:30,Premier League,Matchweek 6,Sat,Home,L,1,3,Everton,1.0,1.9,57.0,16981.0,Christian Nørgaard,4-3-3,Michael Oliver,Match Report,,12.0,2.0,13.9,1.0,0,0,2024,Brentford
-8,2023-10-01,14:00,Premier League,Matchweek 7,Sun,Away,D,1,1,Nott'ham Forest,1.6,0.5,59.0,29004.0,Christian Nørgaard,4-3-3,Paul Tierney,Match Report,,18.0,3.0,14.1,0.0,0,0,2024,Brentford
-9,2023-10-07,15:00,Premier League,Matchweek 8,Sat,Away,L,1,2,Manchester Utd,0.9,1.4,36.0,73453.0,Christian Nørgaard,3-5-2,Andy Madley,Match Report,,11.0,3.0,17.3,0.0,0,0,2024,Brentford
-10,2023-10-21,15:00,Premier League,Matchweek 9,Sat,Home,W,3,0,Burnley,3.1,1.1,50.0,17029.0,Christian Nørgaard,4-3-3,Joshua Smith,Match Report,,23.0,9.0,15.2,1.0,0,0,2024,Brentford
-11,2023-10-28,12:30,Premier League,Matchweek 10,Sat,Away,W,2,0,Chelsea,2.2,1.9,31.0,39575.0,Christian Nørgaard,3-5-2,Simon Hooper,Match Report,,7.0,5.0,12.9,0.0,0,0,2024,Brentford
-12,2023-11-04,15:00,Premier League,Matchweek 11,Sat,Home,W,3,2,West Ham,1.5,1.8,58.0,17103.0,Christian Nørgaard,4-3-3,Thomas Bramall,Match Report,,16.0,4.0,15.7,1.0,0,0,2024,Brentford
-13,2023-11-12,14:00,Premier League,Matchweek 12,Sun,Away,L,0,3,Liverpool,1.6,1.7,41.0,50151.0,Christian Nørgaard,5-3-2,Paul Tierney,Match Report,,16.0,3.0,16.8,2.0,0,0,2024,Brentford
-14,2023-11-25,17:30,Premier League,Matchweek 13,Sat,Home,L,0,1,Arsenal,1.1,1.6,36.0,17201.0,Christian Nørgaard,5-3-2,Tim Robinson,Match Report,,9.0,1.0,11.9,0.0,0,0,2024,Brentford
-15,2023-12-02,15:00,Premier League,Matchweek 14,Sat,Home,W,3,1,Luton Town,3.1,0.2,67.0,17075.0,Christian Nørgaard,4-3-3,Anthony Taylor,Match Report,,27.0,6.0,15.3,0.0,0,0,2024,Brentford
-16,2023-12-06,19:30,Premier League,Matchweek 15,Wed,Away,L,1,2,Brighton,1.5,1.5,38.0,31571.0,Vitaly Janelt,4-4-2,Peter Bankes,Match Report,,7.0,0.0,17.6,0.0,1,1,2024,Brentford
-17,2023-12-09,15:00,Premier League,Matchweek 16,Sat,Away,L,0,1,Sheffield Utd,0.6,0.8,59.0,28509.0,Christian Nørgaard,4-3-3,Stuart Attwell,Match Report,,10.0,4.0,16.6,0.0,0,0,2024,Brentford
-18,2023-12-17,14:00,Premier League,Matchweek 17,Sun,Home,L,1,2,Aston Villa,0.5,1.4,33.0,17034.0,Christian Nørgaard,3-5-2,David Coote,Match Report,,4.0,3.0,13.3,0.0,0,0,2024,Brentford
-19,2023-12-27,19:30,Premier League,Matchweek 19,Wed,Home,L,1,4,Wolves,2.2,2.4,60.0,17109.0,Christian Nørgaard,4-3-3,Andy Madley,Match Report,,14.0,4.0,13.8,0.0,0,0,2024,Brentford
-20,2023-12-30,15:00,Premier League,Matchweek 20,Sat,Away,L,1,3,Crystal Palace,1.4,1.0,53.0,25472.0,Christian Nørgaard,3-5-2,Robert Jones,Match Report,,9.0,4.0,16.0,0.0,0,0,2024,Brentford
-23,2024-01-20,17:30,Premier League,Matchweek 21,Sat,Home,W,3,2,Nott'ham Forest,1.2,1.2,48.0,17077.0,Ivan Toney,3-5-2,Darren England,Match Report,,11.0,5.0,14.8,1.0,0,0,2024,Brentford
-24,2024-01-31,19:30,Premier League,Matchweek 22,Wed,Away,L,2,3,Tottenham,1.6,2.9,32.0,61210.0,Christian Nørgaard,3-5-2,David Coote,Match Report,,9.0,5.0,12.9,0.0,0,0,2024,Brentford
-25,2024-02-05,20:00,Premier League,Matchweek 23,Mon,Home,L,1,3,Manchester City,1.0,2.1,28.0,17096.0,Christian Nørgaard,3-5-2,Jarred Gillett,Match Report,,9.0,2.0,15.3,0.0,0,0,2024,Brentford
-26,2024-02-10,15:00,Premier League,Matchweek 24,Sat,Away,W,2,0,Wolves,1.9,1.0,29.0,30731.0,Christian Nørgaard,3-5-2,Simon Hooper,Match Report,,9.0,6.0,14.0,0.0,0,0,2024,Brentford
-27,2024-02-17,12:30,Premier League,Matchweek 25,Sat,Home,L,1,4,Liverpool,1.6,2.8,38.0,17193.0,Christian Nørgaard,3-5-2,Michael Oliver,Match Report,,15.0,6.0,19.8,3.0,0,0,2024,Brentford
-28,2024-02-20,19:30,Premier League,Matchweek 18,Tue,Away,L,0,1,Manchester City,0.4,2.3,30.0,52247.0,Christian Nørgaard,3-5-2,Darren England,Match Report,,6.0,2.0,19.4,1.0,0,0,2024,Brentford
+33,2024-02-24,15:00,Premier League,Matchweek 26,Sat,Away,W,2,1,Manchester Utd,1.1,1.7,44.0,73487.0,Harrison Reed,4-2-3-1,Michael Oliver,Match Report,,17.0,5.0,17.0,0.0,0,0,2024,Fulham
 0,2023-08-12,15:00,Premier League,Matchweek 1,Sat,Away,W,1.0,0.0,Sheffield Utd,1.9,0.5,68.0,31194.0,Joel Ward,4-2-3-1,John Brooks,Match Report,,24.0,8.0,18.5,1.0,0,0,2024,Crystal Palace
 1,2023-08-21,20:00,Premier League,Matchweek 2,Mon,Home,L,0.0,1.0,Arsenal,1.0,2.0,47.0,24189.0,Joel Ward,4-2-3-1,David Coote,Match Report,,14.0,2.0,16.4,1.0,0,0,2024,Crystal Palace
 2,2023-08-26,15:00,Premier League,Matchweek 3,Sat,Away,D,1.0,1.0,Brentford,0.8,1.0,40.0,16997.0,Joel Ward,4-2-3-1,Peter Bankes,Match Report,,15.0,5.0,16.9,1.0,0,0,2024,Crystal Palace
@@ -374,6 +332,57 @@
 26,2024-02-03,15:00,Premier League,Matchweek 23,Sat,Away,L,1.0,4.0,Brighton,0.3,1.4,32.0,31345.0,Marc Guéhi,4-3-3,Simon Hooper,Match Report,,7.0,5.0,20.6,0.0,0,0,2024,Crystal Palace
 27,2024-02-12,20:00,Premier League,Matchweek 24,Mon,Home,L,1.0,3.0,Chelsea,0.6,1.4,23.0,25110.0,Joachim Andersen,4-1-4-1,Michael Oliver,Match Report,,13.0,4.0,18.7,0.0,0,0,2024,Crystal Palace
 28,2024-02-19,20:00,Premier League,Matchweek 25,Mon,Away,D,1.0,1.0,Everton,0.7,1.7,39.0,38164.0,Joel Ward,3-4-3,Paul Tierney,Match Report,,10.0,3.0,13.0,0.0,0,0,2024,Crystal Palace
+29,2024-02-24,15:00,Premier League,Matchweek 26,Sat,Home,W,3.0,0.0,Burnley,2.4,0.1,56.0,24042.0,Joel Ward,3-4-3,Lewis Smith,Match Report,,14.0,5.0,15.3,1.0,1,1,2024,Crystal Palace
+0,2023-08-12,15:00,Premier League,Matchweek 1,Sat,Home,D,1.0,1.0,West Ham,1.3,1.1,62.0,11245.0,Neto,4-2-3-1,Peter Bankes,Match Report,,14.0,5.0,20.7,1.0,0,0,2024,Bournemouth
+1,2023-08-19,15:00,Premier League,Matchweek 2,Sat,Away,L,1.0,3.0,Liverpool,1.3,3.0,36.0,53145.0,Neto,4-2-3-1,Thomas Bramall,Match Report,,13.0,5.0,19.7,1.0,0,0,2024,Bournemouth
+2,2023-08-26,12:30,Premier League,Matchweek 3,Sat,Home,L,0.0,2.0,Tottenham,0.7,2.1,44.0,10567.0,Neto,4-2-3-1,Tim Robinson,Match Report,,11.0,3.0,17.8,0.0,0,0,2024,Bournemouth
+4,2023-09-02,15:00,Premier League,Matchweek 4,Sat,Away,D,2.0,2.0,Brentford,2.1,2.9,40.0,16973.0,Neto,4-2-3-1,Robert Madley,Match Report,,12.0,5.0,15.1,0.0,0,0,2024,Bournemouth
+5,2023-09-17,14:00,Premier League,Matchweek 5,Sun,Home,D,0.0,0.0,Chelsea,1.0,1.8,36.0,10421.0,Neto,4-2-3-1,David Coote,Match Report,,13.0,4.0,16.7,1.0,0,0,2024,Bournemouth
+6,2023-09-24,14:00,Premier League,Matchweek 6,Sun,Away,L,1.0,3.0,Brighton,1.1,1.9,39.0,31617.0,Neto,4-2-3-1,John Brooks,Match Report,,12.0,3.0,17.6,1.0,0,0,2024,Bournemouth
+8,2023-09-30,15:00,Premier League,Matchweek 7,Sat,Home,L,0.0,4.0,Arsenal,0.6,3.4,43.0,11193.0,Neto,4-2-3-1,Michael Salisbury,Match Report,,8.0,1.0,14.1,0.0,0,0,2024,Bournemouth
+9,2023-10-07,15:00,Premier League,Matchweek 8,Sat,Away,L,0.0,3.0,Everton,0.7,2.4,52.0,38815.0,Neto,4-2-3-1,David Coote,Match Report,,11.0,3.0,16.2,0.0,0,0,2024,Bournemouth
+10,2023-10-21,15:00,Premier League,Matchweek 9,Sat,Home,L,1.0,2.0,Wolves,0.6,2.4,35.0,11175.0,Neto,4-2-3-1,Paul Tierney,Match Report,,7.0,4.0,17.1,0.0,0,0,2024,Bournemouth
+11,2023-10-28,15:00,Premier League,Matchweek 10,Sat,Home,W,2.0,1.0,Burnley,1.1,0.8,45.0,11152.0,Lloyd Kelly,4-2-3-1,Samuel Barrott,Match Report,,13.0,6.0,19.5,2.0,0,0,2024,Bournemouth
+13,2023-11-04,15:00,Premier League,Matchweek 11,Sat,Away,L,1.0,6.0,Manchester City,0.9,1.9,35.0,53358.0,Lloyd Kelly,5-4-1,Craig Pawson,Match Report,,5.0,1.0,11.4,0.0,0,0,2024,Bournemouth
+14,2023-11-11,17:30,Premier League,Matchweek 12,Sat,Home,W,2.0,0.0,Newcastle Utd,2.4,0.5,48.0,11201.0,Neto,4-2-3-1,Chris Kavanagh,Match Report,,19.0,10.0,14.9,0.0,0,0,2024,Bournemouth
+15,2023-11-25,15:00,Premier League,Matchweek 13,Sat,Away,W,3.0,1.0,Sheffield Utd,2.9,0.8,54.0,30208.0,Neto,4-2-3-1,Andy Madley,Match Report,,23.0,11.0,15.7,0.0,0,0,2024,Bournemouth
+16,2023-12-03,14:00,Premier League,Matchweek 14,Sun,Home,D,2.0,2.0,Aston Villa,2.0,0.7,38.0,11191.0,Neto,4-2-3-1,Thomas Bramall,Match Report,,15.0,7.0,13.6,0.0,0,0,2024,Bournemouth
+17,2023-12-06,19:30,Premier League,Matchweek 15,Wed,Away,W,2.0,0.0,Crystal Palace,1.8,1.0,41.0,25078.0,Neto,4-2-3-1,Craig Pawson,Match Report,,11.0,4.0,11.5,0.0,0,0,2024,Bournemouth
+18,2023-12-09,15:00,Premier League,Matchweek 16,Sat,Away,W,3.0,0.0,Manchester Utd,1.5,1.1,32.0,73427.0,Neto,4-2-3-1,Peter Bankes,Match Report,,10.0,4.0,12.7,0.0,0,0,2024,Bournemouth
+19,2023-12-23,15:00,Premier League,Matchweek 18,Sat,Away,W,3.0,2.0,Nott'ham Forest,1.6,1.0,66.0,29188.0,Neto,4-2-3-1,Robert Jones,Match Report,,18.0,6.0,15.9,1.0,0,0,2024,Bournemouth
+20,2023-12-26,15:00,Premier League,Matchweek 19,Tue,Home,W,3.0,0.0,Fulham,1.8,0.3,43.0,11099.0,Neto,4-2-3-1,Tim Robinson,Match Report,,15.0,3.0,18.5,0.0,1,1,2024,Bournemouth
+21,2023-12-31,14:00,Premier League,Matchweek 20,Sun,Away,L,1.0,3.0,Tottenham,1.7,2.3,50.0,61780.0,Neto,4-2-3-1,Simon Hooper,Match Report,,24.0,4.0,17.2,1.0,0,0,2024,Bournemouth
+23,2024-01-21,16:30,Premier League,Matchweek 21,Sun,Home,L,0.0,4.0,Liverpool,1.4,1.5,40.0,11228.0,Neto,4-2-3-1,Andy Madley,Match Report,,11.0,1.0,19.8,0.0,0,0,2024,Bournemouth
+25,2024-02-01,19:30,Premier League,Matchweek 22,Thu,Away,D,1.0,1.0,West Ham,1.2,1.4,52.0,62478.0,Neto,4-2-3-1,Tim Robinson,Match Report,,9.0,4.0,17.2,0.0,0,0,2024,Bournemouth
+26,2024-02-04,14:00,Premier League,Matchweek 23,Sun,Home,D,1.0,1.0,Nott'ham Forest,1.3,0.5,45.0,11200.0,Neto,4-2-3-1,Rebecca Welch,Match Report,,9.0,1.0,16.7,1.0,0,0,2024,Bournemouth
+27,2024-02-10,15:00,Premier League,Matchweek 24,Sat,Away,L,1.0,3.0,Fulham,1.8,1.6,51.0,24271.0,Neto,4-2-3-1,Darren England,Match Report,,25.0,4.0,16.7,1.0,0,0,2024,Bournemouth
+28,2024-02-17,15:00,Premier League,Matchweek 25,Sat,Away,D,2.0,2.0,Newcastle Utd,2.2,2.2,38.0,52224.0,Neto,4-2-3-1,Michael Salisbury,Match Report,,12.0,6.0,20.3,0.0,0,0,2024,Bournemouth
+29,2024-02-24,17:30,Premier League,Matchweek 26,Sat,Home,L,0.0,1.0,Manchester City,0.9,1.6,38.0,11184.0,Neto,4-2-3-1,Jarred Gillett,Match Report,,13.0,4.0,17.1,0.0,0,0,2024,Bournemouth
+0,2023-08-13,14:00,Premier League,Matchweek 1,Sun,Home,D,2,2,Tottenham,2.2,1.3,31.0,17066.0,Christian Nørgaard,5-3-2,Robert Jones,Match Report,,10.0,5.0,18.0,0.0,1,1,2024,Brentford
+1,2023-08-19,15:00,Premier League,Matchweek 2,Sat,Away,W,3,0,Fulham,3.7,0.5,45.0,24236.0,Christian Nørgaard,4-3-3,Darren Bond,Match Report,,16.0,7.0,13.8,1.0,1,1,2024,Brentford
+2,2023-08-26,15:00,Premier League,Matchweek 3,Sat,Home,D,1,1,Crystal Palace,1.0,0.8,60.0,16997.0,Christian Nørgaard,4-3-3,Peter Bankes,Match Report,,12.0,1.0,13.7,0.0,0,0,2024,Brentford
+4,2023-09-02,15:00,Premier League,Matchweek 4,Sat,Home,D,2,2,Bournemouth,2.9,2.1,60.0,16973.0,Christian Nørgaard,4-3-3,Robert Madley,Match Report,,21.0,7.0,14.7,1.0,0,0,2024,Brentford
+5,2023-09-16,17:30,Premier League,Matchweek 5,Sat,Away,L,0,1,Newcastle Utd,0.5,1.4,44.0,51670.0,Christian Nørgaard,5-3-2,Craig Pawson,Match Report,,11.0,2.0,15.7,0.0,0,0,2024,Brentford
+6,2023-09-23,17:30,Premier League,Matchweek 6,Sat,Home,L,1,3,Everton,1.0,1.9,57.0,16981.0,Christian Nørgaard,4-3-3,Michael Oliver,Match Report,,12.0,2.0,13.9,1.0,0,0,2024,Brentford
+8,2023-10-01,14:00,Premier League,Matchweek 7,Sun,Away,D,1,1,Nott'ham Forest,1.6,0.5,59.0,29004.0,Christian Nørgaard,4-3-3,Paul Tierney,Match Report,,18.0,3.0,14.1,0.0,0,0,2024,Brentford
+9,2023-10-07,15:00,Premier League,Matchweek 8,Sat,Away,L,1,2,Manchester Utd,0.9,1.4,36.0,73453.0,Christian Nørgaard,3-5-2,Andy Madley,Match Report,,11.0,3.0,17.3,0.0,0,0,2024,Brentford
+10,2023-10-21,15:00,Premier League,Matchweek 9,Sat,Home,W,3,0,Burnley,3.1,1.1,50.0,17029.0,Christian Nørgaard,4-3-3,Joshua Smith,Match Report,,23.0,9.0,15.2,1.0,0,0,2024,Brentford
+11,2023-10-28,12:30,Premier League,Matchweek 10,Sat,Away,W,2,0,Chelsea,2.2,1.9,31.0,39575.0,Christian Nørgaard,3-5-2,Simon Hooper,Match Report,,7.0,5.0,12.9,0.0,0,0,2024,Brentford
+12,2023-11-04,15:00,Premier League,Matchweek 11,Sat,Home,W,3,2,West Ham,1.5,1.8,58.0,17103.0,Christian Nørgaard,4-3-3,Thomas Bramall,Match Report,,16.0,4.0,15.7,1.0,0,0,2024,Brentford
+13,2023-11-12,14:00,Premier League,Matchweek 12,Sun,Away,L,0,3,Liverpool,1.6,1.7,41.0,50151.0,Christian Nørgaard,5-3-2,Paul Tierney,Match Report,,16.0,3.0,16.8,2.0,0,0,2024,Brentford
+14,2023-11-25,17:30,Premier League,Matchweek 13,Sat,Home,L,0,1,Arsenal,1.1,1.6,36.0,17201.0,Christian Nørgaard,5-3-2,Tim Robinson,Match Report,,9.0,1.0,11.9,0.0,0,0,2024,Brentford
+15,2023-12-02,15:00,Premier League,Matchweek 14,Sat,Home,W,3,1,Luton Town,3.1,0.2,67.0,17075.0,Christian Nørgaard,4-3-3,Anthony Taylor,Match Report,,27.0,6.0,15.3,0.0,0,0,2024,Brentford
+16,2023-12-06,19:30,Premier League,Matchweek 15,Wed,Away,L,1,2,Brighton,1.5,1.5,38.0,31571.0,Vitaly Janelt,4-4-2,Peter Bankes,Match Report,,7.0,0.0,17.6,0.0,1,1,2024,Brentford
+17,2023-12-09,15:00,Premier League,Matchweek 16,Sat,Away,L,0,1,Sheffield Utd,0.6,0.8,59.0,28509.0,Christian Nørgaard,4-3-3,Stuart Attwell,Match Report,,10.0,4.0,16.6,0.0,0,0,2024,Brentford
+18,2023-12-17,14:00,Premier League,Matchweek 17,Sun,Home,L,1,2,Aston Villa,0.5,1.4,33.0,17034.0,Christian Nørgaard,3-5-2,David Coote,Match Report,,4.0,3.0,13.3,0.0,0,0,2024,Brentford
+19,2023-12-27,19:30,Premier League,Matchweek 19,Wed,Home,L,1,4,Wolves,2.2,2.4,60.0,17109.0,Christian Nørgaard,4-3-3,Andy Madley,Match Report,,14.0,4.0,13.8,0.0,0,0,2024,Brentford
+20,2023-12-30,15:00,Premier League,Matchweek 20,Sat,Away,L,1,3,Crystal Palace,1.4,1.0,53.0,25472.0,Christian Nørgaard,3-5-2,Robert Jones,Match Report,,9.0,4.0,16.0,0.0,0,0,2024,Brentford
+23,2024-01-20,17:30,Premier League,Matchweek 21,Sat,Home,W,3,2,Nott'ham Forest,1.2,1.2,48.0,17077.0,Ivan Toney,3-5-2,Darren England,Match Report,,11.0,5.0,14.8,1.0,0,0,2024,Brentford
+24,2024-01-31,19:30,Premier League,Matchweek 22,Wed,Away,L,2,3,Tottenham,1.6,2.9,32.0,61210.0,Christian Nørgaard,3-5-2,David Coote,Match Report,,9.0,5.0,12.9,0.0,0,0,2024,Brentford
+25,2024-02-05,20:00,Premier League,Matchweek 23,Mon,Home,L,1,3,Manchester City,1.0,2.1,28.0,17096.0,Christian Nørgaard,3-5-2,Jarred Gillett,Match Report,,9.0,2.0,15.3,0.0,0,0,2024,Brentford
+26,2024-02-10,15:00,Premier League,Matchweek 24,Sat,Away,W,2,0,Wolves,1.9,1.0,29.0,30731.0,Christian Nørgaard,3-5-2,Simon Hooper,Match Report,,9.0,6.0,14.0,0.0,0,0,2024,Brentford
+27,2024-02-17,12:30,Premier League,Matchweek 25,Sat,Home,L,1,4,Liverpool,1.6,2.8,38.0,17193.0,Christian Nørgaard,3-5-2,Michael Oliver,Match Report,,15.0,6.0,19.8,3.0,0,0,2024,Brentford
+28,2024-02-20,19:30,Premier League,Matchweek 18,Tue,Away,L,0,1,Manchester City,0.4,2.3,30.0,52247.0,Christian Nørgaard,3-5-2,Darren England,Match Report,,6.0,2.0,19.4,1.0,0,0,2024,Brentford
 0,2023-08-12,12:30,Premier League,Matchweek 1,Sat,Away,L,1,2,Arsenal,1.2,0.8,22.0,59984.0,Joe Worrall,3-4-3,Michael Oliver,Match Report,,6.0,2.0,17.3,0.0,0,0,2024,Nottingham Forest
 1,2023-08-18,19:45,Premier League,Matchweek 2,Fri,Home,W,2,1,Sheffield Utd,1.4,0.5,50.0,29432.0,Joe Worrall,3-4-3,Peter Bankes,Match Report,,16.0,4.0,15.6,0.0,0,0,2024,Nottingham Forest
 2,2023-08-26,15:00,Premier League,Matchweek 3,Sat,Away,L,2,3,Manchester Utd,1.2,2.8,34.0,73595.0,Joe Worrall,3-4-3,Stuart Attwell,Match Report,,9.0,4.0,14.7,0.0,0,0,2024,Nottingham Forest
@@ -399,6 +408,7 @@
 26,2024-02-04,14:00,Premier League,Matchweek 23,Sun,Away,D,1,1,Bournemouth,0.5,1.3,55.0,11200.0,Ryan Yates,4-2-3-1,Rebecca Welch,Match Report,,8.0,6.0,19.9,0.0,0,0,2024,Nottingham Forest
 28,2024-02-10,17:30,Premier League,Matchweek 24,Sat,Home,L,2,3,Newcastle Utd,1.5,0.5,39.0,29451.0,Ryan Yates,4-2-3-1,Anthony Taylor,Match Report,,13.0,3.0,21.8,0.0,0,0,2024,Nottingham Forest
 29,2024-02-17,15:00,Premier League,Matchweek 25,Sat,Home,W,2,0,West Ham,2.8,0.5,49.0,29490.0,Morgan Gibbs-White,4-2-3-1,Thomas Bramall,Match Report,,19.0,8.0,16.5,0.0,0,0,2024,Nottingham Forest
+30,2024-02-24,15:00,Premier League,Matchweek 26,Sat,Away,L,2,4,Aston Villa,2.6,3.6,42.0,,Morgan Gibbs-White,4-2-3-1,Samuel Barrott,Match Report,,10.0,3.0,16.4,0.0,0,0,2024,Nottingham Forest
 0,2023-08-12,15:00,Premier League,Matchweek 1,Sat,Home,L,0,1,Fulham,2.7,1.5,42.0,39940.0,James Tarkowski,4-4-1-1,Stuart Attwell,Match Report,,19.0,9.0,15.8,0.0,0,0,2024,Everton
 1,2023-08-20,14:00,Premier League,Matchweek 2,Sun,Away,L,0,4,Aston Villa,0.6,2.9,40.0,41694.0,James Tarkowski,4-1-4-1,Anthony Taylor,Match Report,,9.0,2.0,14.7,0.0,0,0,2024,Everton
 2,2023-08-26,15:00,Premier League,Matchweek 3,Sat,Home,L,0,1,Wolves,1.3,1.1,47.0,38851.0,James Tarkowski,4-1-4-1,Craig Pawson,Match Report,,15.0,7.0,13.8,0.0,0,0,2024,Everton
@@ -424,6 +434,7 @@
 29,2024-02-03,12:30,Premier League,Matchweek 23,Sat,Home,D,2,2,Tottenham,2.6,1.0,43.0,39321.0,James Tarkowski,4-4-1-1,Michael Oliver,Match Report,,14.0,4.0,14.3,0.0,0,0,2024,Everton
 30,2024-02-10,12:30,Premier League,Matchweek 24,Sat,Away,L,0,2,Manchester City,0.3,1.6,28.0,52187.0,James Tarkowski,4-2-3-1,John Brooks,Match Report,,5.0,1.0,22.9,0.0,0,0,2024,Everton
 31,2024-02-19,20:00,Premier League,Matchweek 25,Mon,Home,D,1,1,Crystal Palace,1.7,0.7,61.0,38164.0,James Tarkowski,4-4-1-1,Paul Tierney,Match Report,,19.0,4.0,16.4,1.0,0,0,2024,Everton
+32,2024-02-24,15:00,Premier League,Matchweek 26,Sat,Away,D,1,1,Brighton,0.3,1.3,36.0,41646.0,James Tarkowski,4-4-1-1,Tony Harrington,Match Report,,6.0,2.0,16.0,0.0,0,0,2024,Everton
 0,2023-08-12,15:00,Premier League,Matchweek 1,Sat,Away,L,1.0,4.0,Brighton,1.5,4.0,30.0,31872.0,Tom Lockyer,3-5-2,David Coote,Match Report,,8.0,2.0,16.6,0.0,1,1,2024,Luton Town
 1,2023-08-25,20:00,Premier League,Matchweek 3,Fri,Away,L,0.0,3.0,Chelsea,0.4,2.2,33.0,39893.0,Tom Lockyer,5-3-2,Robert Jones,Match Report,,11.0,1.0,19.0,1.0,0,0,2024,Luton Town
 3,2023-09-01,20:00,Premier League,Matchweek 4,Fri,Home,L,1.0,2.0,West Ham,1.4,1.0,39.0,10802.0,Carlton Morris,5-3-2,Paul Tierney,Match Report,,16.0,1.0,11.9,0.0,0,0,2024,Luton Town
@@ -474,6 +485,7 @@
 26,2024-02-03,15:00,Premier League,Matchweek 23,Sat,Home,D,2.0,2.0,Fulham,1.8,1.5,44.0,20203.0,Josh Brownhill,4-4-2,Darren Bond,Match Report,,12.0,4.0,15.4,0.0,0,0,2024,Burnley
 27,2024-02-10,15:00,Premier League,Matchweek 24,Sat,Away,L,1.0,3.0,Liverpool,1.3,2.8,30.0,59896.0,Josh Brownhill,4-4-2,Tim Robinson,Match Report,,9.0,4.0,17.6,0.0,0,0,2024,Burnley
 28,2024-02-17,15:00,Premier League,Matchweek 25,Sat,Home,L,0.0,5.0,Arsenal,0.3,2.3,36.0,21311.0,Josh Brownhill,4-4-2,Jarred Gillett,Match Report,,8.0,0.0,18.6,0.0,0,0,2024,Burnley
+29,2024-02-24,15:00,Premier League,Matchweek 26,Sat,Away,L,0.0,3.0,Crystal Palace,0.1,2.4,44.0,24042.0,Josh Brownhill,4-4-2,Lewis Smith,Match Report,,2.0,0.0,12.0,0.0,0,0,2024,Burnley
 0,2023-08-12,15:00,Premier League,Matchweek 1,Sat,Home,L,0,1,Crystal Palace,0.5,1.9,32.0,31194.0,John Egan,3-4-3,John Brooks,Match Report,,8.0,1.0,19.4,0.0,0,0,2024,Sheffield United
 1,2023-08-18,19:45,Premier League,Matchweek 2,Fri,Away,L,1,2,Nott'ham Forest,0.5,1.4,50.0,29432.0,John Egan,3-4-3,Peter Bankes,Match Report,,7.0,3.0,18.8,0.0,0,0,2024,Sheffield United
 2,2023-08-27,14:00,Premier League,Matchweek 3,Sun,Home,L,1,2,Manchester City,0.7,3.5,21.0,31336.0,John Egan,3-5-2,Jarred Gillett,Match Report,,6.0,1.0,16.1,0.0,0,0,2024,Sheffield United
